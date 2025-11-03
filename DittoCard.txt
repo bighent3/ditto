@@ -5,6 +5,7 @@ Knows a Celebrity
 Shops at Target
 Is From the South
 Likes cucumbers Pickled
+
 Flies First Class
 Has a pet dog
 Listens to Beyonce
