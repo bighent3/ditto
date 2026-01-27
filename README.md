@@ -20,3 +20,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 Diito Game
 https://www.instagram.com/ditto_socialgame/
+
+Games/toys
+An interactive game that eliminates awkward conversation starters
+Perfect for: Office parties, Birthdays, Fundraisers, Family Gatherings, Orientations
